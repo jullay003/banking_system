@@ -35,6 +35,3 @@ Password :cashier
 User
 Username: some@gmail.com
 Password: some
-
-****** https://www.campcodes.com/ ******
-Subcribe to our Youtube Channel **** SerBermz ****
